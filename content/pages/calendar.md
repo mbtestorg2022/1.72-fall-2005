@@ -4,20 +4,201 @@ title: Calendar
 uid: bc45e2ee-f4ef-4760-4b80-ed2088ba2932
 ---
 
-| Lec # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Course Introduction, Water Balance Equation |  |
-| 2 | Aquifers, Porosity, and Darcy's Law |  |
-| 3 | Hydraulic Head and Fluid Potential |  |
-| 4 | Continuity and Flow Nets | Problem set 1 due |
-| 5 | Groundwater Flow Patterns | Problem set 2 due |
-| 6 | Groundwater/Surface Water Interactions | Problem set 3 due |
-| 7 | Transient Systems and Groundwater Storage |  |
-| 8 | Pump Test Analysis | Problem set 5 due |
-| 9 | Numerical Modeling of Groundwater Flow | FEFLOW® problem set 1 due |
-| 10 | Superposition |  |
-| 11 | Solute Transport in Groundwater |  |
-| 12 | Soil Moisture I |  |
-| 13 | Soil Moisture II | FEFLOW® problem set 2 due |
-| 14 | Natural Tracers |  |
-| 15 | Hydraulic Conductivity: The Permeater |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Introduction, Water Balance Equation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Aquifers, Porosity, and Darcy's Law
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Hydraulic Head and Fluid Potential
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Continuity and Flow Nets
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Groundwater Flow Patterns
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Groundwater/Surface Water Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Transient Systems and Groundwater Storage
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Pump Test Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Numerical Modeling of Groundwater Flow
+{{< tdclose >}}
+{{< tdopen >}}
+FEFLOW® problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Superposition
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Solute Transport in Groundwater
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Soil Moisture I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Soil Moisture II
+{{< tdclose >}}
+{{< tdopen >}}
+FEFLOW® problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Natural Tracers
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Hydraulic Conductivity: The Permeater
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

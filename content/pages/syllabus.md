@@ -28,11 +28,48 @@ In-class midterm and a final exam.
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignments | 45% |
-| In-class Midterm Exam | 15% |
-| Final Exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Outline
 -------
