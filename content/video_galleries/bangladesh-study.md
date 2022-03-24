@@ -13,9 +13,9 @@ These materials are from a case study and field trip recently undertaken in Bang
 
 *   Bangladesh Assignment 1 - Problem Set ([PDF]({{< baseurl >}}/resources/bangladesh_pset1)), Coding Examples ([PDF]({{< baseurl >}}/resources/studiomarch9)), Flux Coding Instructions ([PDF]({{< baseurl >}}/resources/fluxi1)), TotalFluxes.m ([M](/courses/civil-and-environmental-engineering/1-72-groundwater-hydrology-fall-2005/bangladesh-study/TotalFluxes.m))
     
-*   Groundwater Dynamics and Arsenic Contamination in Bangladesh (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/bangladesh))
+*   Groundwater Dynamics and Arsenic Contamination in Bangladesh ([PDF - 2.5 MB]({{< baseurl >}}/resources/bangladesh))
     
-*   Presentation 1 - Bangladesh Arsenic Case Study: Part 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4 MB]({{< baseurl >}}/resources/pres1part1))
+*   Presentation 1 - Bangladesh Arsenic Case Study: Part 1 ([PDF - 2.4 MB]({{< baseurl >}}/resources/pres1part1))
     
 *   Presentation 1 - Bangladesh Arsenic Case Study: Part 2 ([PDF - 2.0 MB]({{< baseurl >}}/resources/pres1part2))
     
