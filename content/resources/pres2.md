@@ -10,6 +10,7 @@ description: These materials are from a case study and field trip recently under
   flow with biogeochemical reactions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-72-groundwater-hydrology-fall-2005/3872c6d5764c2c766ab5c41748b51f5b_pres2.pdf
 file_type: application/pdf
+parent_uid: 44aea9c1-feec-1a7a-b9d2-ee7fd22644fa
 resourcetype: Document
 title: pres2.pdf
 uid: 3872c6d5-764c-2c76-6ab5-c41748b51f5b

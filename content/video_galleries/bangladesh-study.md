@@ -11,7 +11,7 @@ videos:
 
 These materials are from a case study and field trip recently undertaken in Bangladesh. Starting in 2002, the MIT research program has combined hydrogeologic modeling with detailed field and laboratory experiments to test theories of arsenic mobilization and transport. Experimentation with subsurface cores and field manipulation of aquifer chemistry has revealed that arsenic is held immobile through a complex system of biogeochemical processes. Harvey's group is now developing numerical simulation tools to manage the groundwater and agricultural systems that couple groundwater flow with biogeochemical reactions.
 
-*   Bangladesh Assignment 1 - Problem Set ([PDF]({{< baseurl >}}/resources/bangladesh_pset1)), Coding Examples ([PDF]({{< baseurl >}}/resources/studiomarch9)), Flux Coding Instructions ([PDF]({{< baseurl >}}/resources/fluxi1)), TotalFluxes.m ([M](/courses/civil-and-environmental-engineering/1-72-groundwater-hydrology-fall-2005/bangladesh-study/TotalFluxes.m))
+*   Bangladesh Assignment 1 - Problem Set ([PDF]({{< baseurl >}}/resources/bangladesh_pset1)), Coding Examples ([PDF]({{< baseurl >}}/resources/studiomarch9)), Flux Coding Instructions ([PDF]({{< baseurl >}}/resources/fluxi1)), TotalFluxes.m ({{% resource_link "68c8a1fa-146f-aae9-0b4d-486246b39044" "M" %}})
     
 *   Groundwater Dynamics and Arsenic Contamination in Bangladesh ([PDF - 2.5 MB]({{< baseurl >}}/resources/bangladesh))
     

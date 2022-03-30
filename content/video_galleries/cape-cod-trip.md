@@ -22,7 +22,7 @@ This year, the class was given assignments to complete in the context of the fie
 
 *   Cape Cod Field Trip Assignment ([PDF]({{< baseurl >}}/resources/labassn)), and Solution ([PDF]({{< baseurl >}}/resources/solution))
     
-*   Waquoit Bay Follow-up Lab Assignment ([PDF]({{< baseurl >}}/resources/labassn_wb)), Solution ([PDF]({{< baseurl >}}/resources/solution1)), and Class Data ([XLS](/courses/civil-and-environmental-engineering/1-72-groundwater-hydrology-fall-2005/cape-cod-trip/Class_collected_data.xls))
+*   Waquoit Bay Follow-up Lab Assignment ([PDF]({{< baseurl >}}/resources/labassn_wb)), Solution ([PDF]({{< baseurl >}}/resources/solution1)), and Class Data ({{% resource_link "4ef717d7-bb8d-e8e0-6606-8e5daf8fa340" "XLS" %}})
     
 
 These videos are all from the 2004 class field trip to the Cape Cod, MA USGS experimental site and Waquoit Bay National Estuary. The class was given a supplemental handout for the tour. ([PDF - 3.1 MB]({{< baseurl >}}/resources/cape_cod_handout))
