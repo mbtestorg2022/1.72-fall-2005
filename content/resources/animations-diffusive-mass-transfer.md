@@ -1,8 +1,17 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Solute Transport
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Animations: Diffusive Mass Transfer'
 uid: 8198a227-4936-406f-3fb4-208089243486
 video_files:

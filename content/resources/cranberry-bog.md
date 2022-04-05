@@ -1,8 +1,17 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Cape Cod Trip
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Cranberry Bog
 uid: b5b8c51f-e337-a1f1-c3fb-91ae596fc605
 video_files:

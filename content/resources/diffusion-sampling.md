@@ -1,8 +1,17 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Cape Cod Trip
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Diffusion Sampling
 uid: 9123a67e-b480-b8af-29df-6284096bfe10
 video_files:

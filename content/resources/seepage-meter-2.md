@@ -1,8 +1,17 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Cape Cod Trip
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Seepage Meter 2
 uid: 14b699f7-b82d-de59-786a-2a4b69504888
 video_files:

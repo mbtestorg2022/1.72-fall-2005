@@ -10,6 +10,10 @@ description: These materials are from a case study and field trip recently under
   flow with biogeochemical reactions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-72-groundwater-hydrology-fall-2005/e4c71a017a4dc7cef646d3a79c2bc655_pres1part1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Bangladesh Study
+parent_type: CourseSection
 parent_uid: 44aea9c1-feec-1a7a-b9d2-ee7fd22644fa
 resourcetype: Document
 title: pres1part1.pdf

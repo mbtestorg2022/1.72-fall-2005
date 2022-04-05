@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Solute Transport
 uid: 6ba16deb-d26d-810e-431c-8fe3e290f5fe
 videos:

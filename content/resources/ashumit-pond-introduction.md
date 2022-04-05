@@ -1,8 +1,17 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Cape Cod Trip
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Ashumit Pond Introduction
 uid: 746a0f82-90fa-44dd-9e92-4caeb28d9409
 video_files:
